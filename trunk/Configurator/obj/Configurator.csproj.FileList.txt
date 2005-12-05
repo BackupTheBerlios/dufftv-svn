@@ -1,6 +1,0 @@
-bin\Release\Configurator.dll
-bin\Release\Configurator.pdb
-bin\Release\Nini.dll
-obj\Release\ResolveAssemblyReference.cache
-obj\Release\Configurator.dll
-obj\Release\Configurator.pdb

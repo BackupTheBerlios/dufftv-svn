@@ -1,3 +1,0 @@
-obj\Release\ResolveAssemblyReference.cache
-obj\Release\OwnerDrawnListFWProject.dll
-bin\Release\OwnerDrawnListFWProject.dll
